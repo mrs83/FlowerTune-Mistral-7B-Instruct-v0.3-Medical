@@ -5,6 +5,11 @@ We use [Flower Datasets](https://flower.dev/docs/datasets/) to download, partiti
 Flower's Simulation Engine is used to simulate the LLM fine-tuning process in federated way,
 which allows users to perform the training on a single GPU.
 
+## PEFT Adapter
+
+The fine-tuning results have been submitted as a PEFT adapter and can be accessed here:
+
+[FlowerTune-Mistral-7B-Instruct-v0.3-Medical-PEFT](https://huggingface.co/mrs83/FlowerTune-Mistral-7B-Instruct-v0.3-Medical-PEFT)
 
 ## Methodology
 
